@@ -120,6 +120,7 @@ thewindowsclub.com##._7Oxjxwxj-1-
 torrentbrazil.org###\39 XC5rpWERYXtv2LTIrxcTFalSdRqax
 torrentbrazil.org###NvD2gjCCPWAobE6A9gIg3t6CRCrEeV
 tvonlinegratis1.com###anuncio-live
+tvonlinegratis1.com##div.remodal*
 tvonlinegratis1.com###box-video
 tvonlinegratis1.com###gc-reset
 tvonlinegratis1.com###menu-item-20023
