@@ -16,6 +16,8 @@
 *.*.*.*^$popup,third-party,domain=pxstream.tv
 *.*.*.*^$popup,third-party,domain=sixtv.ucoz.com
 *.*.*.*^$popup,third-party,domain=tvonlinegratis1.com
+*.*.*.*^$window.opener,third-party,domain=cloudfront.net
+*.*.*.*^$window.opener,third-party,domain=tvonlinegratis1.com
 @@||comeadvertisewithus.com/ads/.adplacement=
 @@||ekostreams.co$script
 adf.ly###_bd
@@ -25,7 +27,11 @@ adf.ly##.sm_content
 casa.abril.com.br##.tp-backdrop.tp-active
 casa.abril.com.br##.tp-modal
 clubedohardware.com.br##.adbmodal
+clubedohardware.com.br##.adbmodal-cloudflare-app-full-1-centered-cell
+clubedohardware.com.br##.adbmodal-cloudflare-app-full-1-overlay.adbmodal-cloudflare-app-container
+clubedohardware.com.br##.adbmodal-cloudflare-app-full-1-table-wrapper
 clubedohardware.com.br##.cfapps
+clubedohardware.com.br##.cfapps-welcome-bar
 clubedoricardo.com.br##.fancybox-overlay
 download.cnet.com###pdl-redirect-video-container
 download.cnet.com###product-video-container
@@ -38,6 +44,7 @@ ekostreams.co##img
 ekostreams.co##span
 exame.abril.com.br###lightbox-3c22a42a-74d8-41ae-b72d-2d204242cf2a-1496429596682
 exame.abril.com.br###lightbox-iframe
+exame.abril.com.br###lightbox-iframe-3c22a42a-74d8-41ae-b72d-2d204242cf2a
 exame.abril.com.br##.ad-sense
 exame.abril.com.br##.ad-top
 exame.abril.com.br##.assine-abril
@@ -48,11 +55,12 @@ exame.abril.com.br##.tp-backdrop.tp-active
 exame.abril.com.br##.tp-backdrop.tp-active.fb_digioh-margin
 exame.abril.com.br##.tp-iframe-wrapper.tp-active
 exame.abril.com.br##.tp-modal
+exame.abril.com.br##.tp-modal.fb_digioh-margin
 extra.to##.adsbox
 extra.to##.copyrights
 extra.to##.tabledata1
-extra.to##TABLE[width="1070"]
 extra.to##div[style="margin-bottom:12px"]
+extra.to##TABLE[width="1070"]
 extra.to##td[style="vertical-align:top;"]
 extra.to#@#.adsbox
 forum.xda-developers.com###footer
@@ -72,10 +80,10 @@ letras.mus.br###comments
 letras.mus.br###outbrain_widget_0
 letras.mus.br###pub_10
 letras.mus.br###pub_5
-letras.mus.br##.OUTBRAIN
 letras.mus.br##.cnt-info
 letras.mus.br##.coments.g-fix
 letras.mus.br##.ob-widget-section
+letras.mus.br##.OUTBRAIN
 letras.mus.br##iframe
 modthesims.info##.alert.alert-warning
 msn.com###atwAdFrame1
@@ -102,8 +110,8 @@ tecnoblog.net##.extension
 tecnoblog.net##.extension-layer.visible
 thepiratebay.org###foot
 thewindowsclub.com##._7Oxjxwxj-1-
-torrentbrazil.org###NvD2gjCCPWAobE6A9gIg3t6CRCrEeV
 torrentbrazil.org###\39 XC5rpWERYXtv2LTIrxcTFalSdRqax
+torrentbrazil.org###NvD2gjCCPWAobE6A9gIg3t6CRCrEeV
 tvonlinegratis1.com###anuncio-live
 tvonlinegratis1.com###box-video
 tvonlinegratis1.com###gc-reset
@@ -127,17 +135,19 @@ tvonlinegratis1.com##footer
 tvonlinegratis1.com##gc-reset
 tvonlinegratis1.com##lateral
 tvonlinegratis1.com##table
-windowscentral.com###SHGMeyAr
 windowscentral.com###lightbox-bff2632b-4087-427d-b550-c175ea17824e-1499657679938
 windowscentral.com###lightbox-iframe-bff2632b-4087-427d-b550-c175ea17824e
-windowscentral.com##.XluObFFuBJ
+windowscentral.com###SHGMeyAr
 windowscentral.com##.preloaded_lightbox
+windowscentral.com##.XluObFFuBJ
+xvideos.com###w529c00cefcbcb41d841929940dc1f64a1
 ||*&autoplay=1;%20showinfo=0
 ||104.154.237.193^$popup
 ||104.198.147.108^$popup
 ||130.211.230.53
 ||130.211.230.53^$popup
 ||ad2up.com^
+||affack.com
 ||areyouahuman.com^
 ||bet365.com^
 ||brfutebol.org^
@@ -148,6 +158,7 @@ windowscentral.com##.preloaded_lightbox
 ||d3ciks47fhh9wv.cloudfront.net^
 ||disqus.com^
 ||disquscdn.com^
+||djwf0dl2q9i99.cloudfront.net^
 ||download.cnet.com/module/video/
 ||dtscout.com^
 ||dyncdn.me^*.js
@@ -159,13 +170,14 @@ windowscentral.com##.preloaded_lightbox
 ||histats.com^
 ||http://i.legendas.tv/sprite_1.png
 ||i0.wp.com
+||inboxace.com
 ||iqoption.com
 ||onesignal.com^
 ||opensubtitles.org^$popup
 ||pxstream.tv^$popup
-||stencef.com^
 ||st.chatango.com/h5/gz/r0329171426/id.html
 ||static-api.com^
+||stencef.com^
 ||tinypass.com^
 ||tvonlinegratis1.com###script
 ||tvonlinegratis1.com##script
@@ -174,3 +186,4 @@ windowscentral.com##.preloaded_lightbox
 ||ucoz.com^
 ||xat.com^
 ||xatech.com^
+||superaix.com^
