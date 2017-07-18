@@ -10,6 +10,12 @@
 ! Forums: 
 ! Last edit by: Ahpla
 ! ---------- Generic Blocking Rules ----------
+||pixelme.com^
+||statcounter.com^
+||likebtn.com^
+||gstatic.com^
+||staticxx.facebook.com^
+||google-analytics.com^
 *.*.*.*^$popup,third-party,domain=ekostreams.co
 *.*.*.*^$popup,third-party,domain=extra.to
 *.*.*.*^$popup,third-party,domain=knysims.com.br
@@ -101,6 +107,7 @@ opensubtitles.org##.none
 opensubtitles.org##.white_content
 opensubtitles.org##iframe
 opensubtitles.org##legend
+pxstream.tv##script[data-cfasync="false"]
 q.gs###_bd
 q.gs###fade
 q.gs##.black_overlay
@@ -174,10 +181,13 @@ xvideos.com###w529c00cefcbcb41d841929940dc1f64a1
 ||iqoption.com
 ||onesignal.com^
 ||opensubtitles.org^$popup
+||pxstream.tv##iframe
+||pxstream.tv/ads.php
 ||pxstream.tv^$popup
 ||st.chatango.com/h5/gz/r0329171426/id.html
 ||static-api.com^
 ||stencef.com^
+||superaix.com^
 ||tinypass.com^
 ||tvonlinegratis1.com###script
 ||tvonlinegratis1.com##script
@@ -186,4 +196,3 @@ xvideos.com###w529c00cefcbcb41d841929940dc1f64a1
 ||ucoz.com^
 ||xat.com^
 ||xatech.com^
-||superaix.com^
