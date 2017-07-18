@@ -10,13 +10,28 @@
 ! Forums: 
 ! Last edit by: Ahpla
 ! ---------- Generic Blocking Rules ----------
+*.*.*.*^$popup,third-party,domain=ekostreams.co
+*.*.*.*^$window.opener,third-party,domain=ekostreams.co
+@@||ekostreams.co$script
+ekostreams.co###anuncio-live
+ekostreams.co##div.remodal*
+ekostreams.co###box-video
+ekostreams.co###gc-reset
+ekostreams.co###menu-item-20023
+ekostreams.co###table
+ekostreams.co##.anuncio-live
+ekostreams.co##.box-video
+||ekostreams.co###script
+||ekostreams.co##script
+||ekostreams.co^$popup
+||ekostreams.co^.js
+ekostreams.co##script[data-cfasync="false"]
 ||pixelme.com^
 ||statcounter.com^
 ||likebtn.com^
 ||gstatic.com^
 ||staticxx.facebook.com^
 ||google-analytics.com^
-*.*.*.*^$popup,third-party,domain=ekostreams.co
 *.*.*.*^$popup,third-party,domain=extra.to
 *.*.*.*^$popup,third-party,domain=knysims.com.br
 *.*.*.*^$popup,third-party,domain=pxstream.tv
@@ -25,7 +40,6 @@
 *.*.*.*^$window.opener,third-party,domain=cloudfront.net
 *.*.*.*^$window.opener,third-party,domain=tvonlinegratis1.com
 @@||comeadvertisewithus.com/ads/.adplacement=
-@@||ekostreams.co$script
 adf.ly###_bd
 adf.ly###fade
 adf.ly##.black_overlay
