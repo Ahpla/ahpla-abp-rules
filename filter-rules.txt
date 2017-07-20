@@ -31,7 +31,6 @@ ekostreams.co##script[data-cfasync="false"]
 ||likebtn.com^
 ||gstatic.com^
 ||staticxx.facebook.com^
-||google-analytics.com^
 *.*.*.*^$popup,third-party,domain=extra.to
 *.*.*.*^$popup,third-party,domain=knysims.com.br
 *.*.*.*^$popup,third-party,domain=pxstream.tv
