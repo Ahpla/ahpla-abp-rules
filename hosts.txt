@@ -282,3 +282,4 @@
 0.0.0.0 zhuti.xiaomi.com
 0.0.0.0 zhwnlapi.etouch.cn
 0.0.0.0 zx.game.xiaomi.com
+0.0.0.0 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
