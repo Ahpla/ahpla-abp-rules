@@ -1,5 +1,3 @@
-
-
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.stat.xiaomi.com
 0.0.0.0 a.union.mi.com
@@ -283,3 +281,4 @@
 0.0.0.0 zhwnlapi.etouch.cn
 0.0.0.0 zx.game.xiaomi.com
 0.0.0.0 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+0.0.0.0 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
