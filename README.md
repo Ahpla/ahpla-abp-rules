@@ -1,2 +1,2 @@
-# ahpla-abp-rules
-Filtros ads Ahplla
+# ahpla-hosts-rules
+Hosts to Block by Ahplla
